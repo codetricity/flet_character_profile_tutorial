@@ -73,7 +73,7 @@ def App():
                     "Kristi initially was supporting Matt after she "
                     + "slept with him following a company bar outing "
                     + "in San Francisco.  However, she is now supporting "
-                    + "Susan's plan is has advanced the algorithm."
+                    + "Susan's plan and has advanced the distribution algorithm."
                 )
 
         return message
